@@ -29,7 +29,6 @@ Program Setup:
 6. Save the file.  
 7. Place client_secret.json into the same directory as appsettings.json  
 
-
 --------------------------------------------------------------------------------  
 Google OAuth2 Setup:  
 --------------------------------------------------------------------------------  
@@ -75,9 +74,6 @@ Commands:
 !add question#answer - Add a question (if allowed)   
 !highscores - List top scores  
 
-
-
-
 --------------------------------------------------------------------------------  
 Customize the Configuration File:
 -------------------------------------------------------------------------------- 
@@ -107,7 +103,7 @@ questionAuthor - the bot will only add questions from this user name if restrict
 --------------------------------------------------------------------------------  
 Run the Program:  
 -------------------------------------------------------------------------------- 
-8) Double click the YoutubeTriviaBot.exe to run the program  
+Double click the YoutubeTriviaBot.exe to run the program  
 After about 10 seconds it will finish startup  
 If you have the correct LiveChatID you should see messages in the console window  
 when someone types something in the chat  
